@@ -35,7 +35,6 @@ Build an Okta Zero Trust access model using groups, applications, authenticators
 - Least privilege
 - Audit validation
 
-## Project Status
 
 ## Architecture
 
